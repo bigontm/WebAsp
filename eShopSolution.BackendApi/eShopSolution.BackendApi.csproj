@@ -13,6 +13,7 @@
     <ProjectReference Include="..\eShopSolution.Utilities\eShopSolution.Utilities.csproj" />
     <ProjectReference Include="..\eShopSolution.ViewModels\eShopSolution.ViewModels.csproj" />
     <ProjectReference Include="..\WebAsp.Application\eShopSolution.Application.csproj" />
+ 
     <ProjectReference Include="..\WebAsp.Dât\eShopSolution.Data.csproj" />
   </ItemGroup>
 
